@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/liva/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "20dicem | be present"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -78,7 +78,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/logo_2.png"
+logo = "images/logo_1.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
